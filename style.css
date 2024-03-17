@@ -110,3 +110,9 @@ h2 {
   height: 100%;
   width: 100%;
 }
+
+.center {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+}
