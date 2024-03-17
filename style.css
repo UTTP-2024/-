@@ -1,5 +1,6 @@
 body {
     background-color: rgb(53, 32, 170);
+    background-style: cover;
     background-image: url(https://media.discordapp.net/attachments/1205451097075089408/1219055700974768199/blue-color-solid-background-1920x1080_1.png?ex=6609e918&is=65f77418&hm=0eff95052a311591c47d374f0c114cfc91a2e5e92148b07875c6b95bb83fb7e7&=&format=webp&quality=lossless);
     margin: 0px;
     text-align: center;
